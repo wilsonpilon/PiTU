@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📂 Calculador de Tamanho de Subdiretórios (CustomTkinter)
 
 Este utilitário em **Python** calcula o tamanho de cada subdiretório dentro de um diretório selecionado, exibindo os resultados em uma interface gráfica moderna baseada em **CustomTkinter**. Ele também apresenta um **gráfico dinâmico** para visualizar a proporção de espaço ocupado pelos maiores diretórios.
@@ -40,6 +39,4 @@ Este utilitário em **Python** calcula o tamanho de cada subdiretório dentro de
    ```bash
    pip install customtkinter matplotlib
    ```
-=======
-pyTools
->>>>>>> 25cb0b32b97251a830261d9fe521113978e6dc23
+   =======
